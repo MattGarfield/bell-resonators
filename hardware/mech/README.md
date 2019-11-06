@@ -9,4 +9,3 @@ Fusion 360 files:
 
 Exported files:
 - [ ] 2D Laser PDF `.pdf`
-- [ ] PCB Dimension Outline `.dxf`
